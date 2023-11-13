@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8tnHKayxLj53+CJPdIoPygldbP67P8eVhszlwPTydc6zhA90bCk7HqMIwaiEP7+tQcYsvkAws4LVbRR+srQFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo.zingmark\\Desktop\\Programmering\\Tamagotchi\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\hugo.zingmark\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
